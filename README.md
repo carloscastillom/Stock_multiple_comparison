@@ -38,8 +38,8 @@ To use the Ticker Comparison Tool, you need to provide a list of tickers that yo
 
 To run the script and output the data to the console, navigate to the directory where the script is located in your terminal and run the following command:
 
-python ticker_comparison.py
+python pull_data.py
 
 To output the data to a CSV file, run the following command instead:
 
-python ticker_comparison.py --output-file data.csv
+python pull_data.py --output-file data.csv
